@@ -97,7 +97,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="☁️ sᴏᴜʀᴄᴇ ☁️", url=f"https://t.me/TH3ONLYCHANNEL"),
+        InlineKeyboardButton(text="☁️ sᴏᴜʀᴄᴇ ☁️", url=f"https://t.me/DabangTheBrand"),
     ],
 ]
 
@@ -382,7 +382,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="sᴏᴜʀᴄᴇ",
-                            url=f"https://t.me/TH3ONLYCHANNEL",
+                            url=f"https://t.me/DabangTheBrand",
                         ),
                     ],
                     [
@@ -412,7 +412,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="ɢɪᴛʜᴜʙ",
-                            url="https://t.me/saikostar_xd",
+                            url="https://t.me/sexyaaditya",
                         ),
                     ],
                     [

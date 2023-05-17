@@ -370,7 +370,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/TH3ONLYSUPPORT"
+                            text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/DabangTheBrand"
                         ),
                         InlineKeyboardButton(
                             text="ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"
